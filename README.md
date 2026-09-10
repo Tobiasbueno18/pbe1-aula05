@@ -84,3 +84,20 @@ Remove o item de id 1.
 ## Testes
 
 As rotas podem ser testadas usando Postman, Insomnia ou outra ferramenta de requisições HTTP.
+
+## Prints
+![(print01)](./imagens/Captura%20de%20tela%202026-09-03%20164218.png)
+![(print02)](./imagens/Captura%20de%20tela%202026-09-03%20164719.png)
+![(print03)](./imagens/Captura%20de%20tela%202026-09-10%20160846.png)
+![(print04)](./imagens/Captura%20de%20tela%202026-09-10%20160940.png)
+![(print05)](./imagens/Captura%20de%20tela%202026-09-10%20160952.png)
+![(print06)](./imagens/Captura%20de%20tela%202026-09-10%20161247.png)
+![(print07)](./imagens/Captura%20de%20tela%202026-09-10%20161341.png)
+![(print08)](./imagens/Captura%20de%20tela%202026-09-10%20161422.png)
+![(print09)](./imagens/Captura%20de%20tela%202026-09-10%20161500.png)
+![(print10)](./imagens/Captura%20de%20tela%202026-09-10%20161605.png)
+![(print11)](./imagens/Captura%20de%20tela%202026-09-10%20161655.png)
+![(print12)](./imagens/Captura%20de%20tela%202026-09-10%20161742.png)
+![(print13)](./imagens/Captura%20de%20tela%202026-09-10%20161855.png)
+![(print14)](./imagens/Captura%20de%20tela%202026-09-10%20161914.png)
+![(print15)](./imagens/Captura%20de%20tela%202026-09-10%20161959.png)
