@@ -1,0 +1,12 @@
+{
+  "name": "pbe1-aula05",
+  "version": "1.0.0",
+  "description": "API REST de controle de inventário",
+  "main": "servidor/server.js",
+  "scripts": {
+    "start": "node servidor/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
