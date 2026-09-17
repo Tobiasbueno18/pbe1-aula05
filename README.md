@@ -101,3 +101,23 @@ As rotas podem ser testadas usando Postman, Insomnia ou outra ferramenta de requ
 ![(print13)](./imagens/Captura%20de%20tela%202026-09-10%20161855.png)
 ![(print14)](./imagens/Captura%20de%20tela%202026-09-10%20161914.png)
 ![(print15)](./imagens/Captura%20de%20tela%202026-09-10%20161959.png)
+# 📦 Sistema de Inventário
+
+Sistema desenvolvido para realizar o cadastro e a consulta de itens de patrimônio.
+
+## 💻 O que foi feito
+
+* Cadastro de itens do inventário
+* Consulta dos itens cadastrados
+* Campos de item, local, data, valor e patrimônio
+* Integração com o servidor através do `fetch`
+* Tabela para exibição dos dados
+* Estilização com CSS nas cores da bandeira do Brasil 🇧🇷
+
+## 🛠️ Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express
